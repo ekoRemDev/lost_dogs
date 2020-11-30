@@ -50,7 +50,7 @@ class _DashboardState extends State<Dashboard> {
       resizeToAvoidBottomPadding: false,
       body: _tabWidgets.elementAt(_currentIndex),
       bottomNavigationBar: Container(
-        height: 60,
+        height: MediaQuery.of(context).size.height * 0.094,
         child: BottomNavigationBar(
           type: BottomNavigationBarType.fixed,
           currentIndex: _currentIndex,

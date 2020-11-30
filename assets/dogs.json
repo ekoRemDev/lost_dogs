@@ -1,0 +1,45 @@
+{
+  "dogs": [
+    {
+      "breed": "Affenpinscher",
+      "gender": "male",
+      "color": "black",
+      "location" : "ubicación 1",
+      "imageUrl" : "https://images.dog.ceo/breeds/affenpinscher/n02110627_10147.jpg",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+    },
+    {
+      "breed": "African",
+      "gender": "female",
+      "color": "black",
+      "location" : "ubicación 2",
+      "imageUrl" : "https://images.dog.ceo/breeds/african/n02116738_10024.jpg",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+    },
+    {
+      "breed": "Airedale",
+      "gender": "male",
+      "color": "black",
+      "location" : "ubicación 3",
+      "imageUrl" : "https://images.dog.ceo/breeds/airedale/n02096051_1017.jpg",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+    },
+    {
+      "breed": "Akita",
+      "gender": "female",
+      "color": "black",
+      "location" : "ubicación 4",
+      "imageUrl" : "https://images.dog.ceo/breeds/akita/512px-Ainu-Dog.jpg",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+    },
+    {
+      "breed": "Appenzeller",
+      "gender": "female",
+      "color": "black",
+      "location" : "ubicación 5",
+      "imageUrl" : "https://images.dog.ceo/breeds/appenzeller/n02107908_1030.jpg",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+    }
+
+  ]
+}

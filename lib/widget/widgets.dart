@@ -17,9 +17,25 @@ Widget toolbarButtonsMenu(){
 
 }
 
-
 Widget toolbarButtonsNotification(){
   return Center(
     child: FaIcon(FontAwesomeIcons.locationArrow,size: 24,color: Colors.white, ),
   );
+}
+
+Widget toolbarTitle(String title){
+  return Text(
+    title,
+    textAlign: TextAlign.center,
+    style: TextStyle(
+        fontSize: 24, color: Colors.white),);
+}
+
+
+Widget toolbarButtonsBack(){
+
+  return Center(
+    child: FaIcon(FontAwesomeIcons.angleLeft,size: 30,color: Colors.white, ),
+  );
+
 }

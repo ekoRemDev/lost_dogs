@@ -23,6 +23,7 @@ dependencies:
   fluttertoast: ^7.0.4
   font_awesome_flutter: ^8.7.0
   cached_network_image: ^2.2.0+1
+  permission_handler: ^5.0.1+1
 
 dev_dependencies:
   flutter_test:
@@ -42,4 +43,5 @@ flutter:
   assets:
     - assets/
     - assets/bottom_icons/
+    - assets/dogs.json
 
